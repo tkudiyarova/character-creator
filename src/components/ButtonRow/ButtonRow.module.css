@@ -1,2 +1,7 @@
 .buttonRow {
+  white-space: nowrap;
+  overflow: auto;
+  padding: 20px;
+  /* Optical centering */
+  padding-top: 16px;
 }
